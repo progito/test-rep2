@@ -1,3 +1,12 @@
-Заголовок Hello2
+Заголовок Hello3
 
 тут какой то текст документа
+
+<type>(scope): <description>
+
+<body message>
+
+<footer>
+
+feat, fix, docs, style, refactor, test, chore, perf,..
+index.html
