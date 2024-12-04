@@ -1,1 +1,5 @@
 assets/video/
+node_modules/
+*.log
+.idea/
+.vscode/

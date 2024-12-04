@@ -1,0 +1,30 @@
+diff --git a/.gitignore b/.gitignore
+index 9691039..491aa30 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -1 +1,5 @@
+-assets/video/
+\ No newline at end of file
++assets/video/
++node_modules/
++*.log
++.idea/
++.vscode/
+diff --git a/src/text.txt b/src/text.txt
+index 4f67756..d7a583a 100644
+--- a/src/text.txt
++++ b/src/text.txt
+@@ -1,13 +1,3 @@
+ Заголовок Hello3
+ 
+ тут какой то текст документа
+-
+-<type>(scope): <description>
+-
+-
+-<body message>
+-
+-<footer>
+-
+-feat, fix, docs, style, refactor, test, chore, perf,..
+-index.html
